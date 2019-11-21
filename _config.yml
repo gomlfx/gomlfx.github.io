@@ -20,11 +20,11 @@ description: a collection of data science
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Bio: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - my hometown newspaper: "http://washingtonpost.com"
     - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  Author's home: "github.com/gomlfx"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
