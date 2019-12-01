@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: my portfolio
+title: My Portfolio
 
 # Short description of your site
-description: a collection of data science
+description: Some data science projects
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,9 +20,9 @@ description: a collection of data science
 
 # List of links in the navigation bar
 navbar-links:
-  Bio: "aboutme"
+  About Me: "aboutme"
   Resources:
-    - my hometown newspaper: "http://washingtonpost.com"
+    - my hometown newspaper: "http://www.seattletimes.com"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "github.com/gomlfx"
 
