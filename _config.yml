@@ -27,11 +27,14 @@ navbar-links:
     - Learn go: "http://www.golang.org/"
     - Learn scala: "http://www.scala-lang.org/"
   Author's home: 
-    - online: "http://www.github.com/gomlfx"
-    - on Amazon: "https://aws.amazon.com/"
-    - on Windows: "http://azure.microsoft.com/"
-    - my hometown newspaper: "http://www.seattletimes.com/"
-    - Another good place: "http://www.vancouversun.com/"
+    - gh: "http://www.github.com/gomlfx"
+    - Amazon: "https://aws.amazon.com/"
+    - Windows: "http://azure.microsoft.com/"
+    - Seattle: "http://www.seattletimes.com/"
+    - BC: "http://www.vancouversun.com/"
+    - China:"https://www.rosettastone.com/learn-chinese/"
+    - Japan:"http://www.city.higashikurume.lg.jp/"
+    
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
