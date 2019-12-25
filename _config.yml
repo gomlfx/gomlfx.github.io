@@ -32,7 +32,7 @@ navbar-links:
     - Learn go: "http://www.golang.org/"
     - Learn scala: "http://www.scala-lang.org/"
   Cyber home: 
-    - gh: "http://www.github.com/gomlfx"
+    - Github: "http://www.github.com/gomlfx"
     - Amazon: "https://aws.amazon.com/"
     - Windows: "http://azure.microsoft.com/"
     
