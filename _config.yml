@@ -23,8 +23,8 @@ navbar-links:
   Bio and home:
     - Seattle: "http://www.seattletimes.com/"
     - BC: "http://www.vancouversun.com/"
-    - China:"https://www.rosettastone.com/learn-chinese/"
-    - Japan:"http://www.city.higashikurume.lg.jp/"
+    - China: "https://www.rosettastone.com/learn-chinese/"
+    - Japan: "http://www.city.higashikurume.lg.jp/"
   
   Resources:
     - Learn python: "http://www.python.org/"
