@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Engineer, Forex Trader, Math Teacher, Data Scientist.
+image: img/passion.jpg
 ---
 ### Intro
 
