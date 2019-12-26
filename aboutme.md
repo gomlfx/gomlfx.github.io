@@ -6,7 +6,7 @@ image: img/passion.jpg
 ---
 ### Education
 
-  My name is Mike Smith. I studied Electronic Engineering, then Computer Science from 1993 to 1999. I have been a forex trader since 2001. I was an international high school math teacher from 2008 to 2018. And a teacher in various public/private high schools and unversities from 2001 to 2007 in China, Japan, and Taiwan. I attended ggu.edu, which time coexists on the same block with frbsf.org. I believe this is why I remain so sternly interested in currency values. <a href="https://www.linkedin.com/in/mike-smith-0461a2137/">https://www.linkedin.com/in/mike-smith-0461a2137/</a>
+  My name is Mike Smith. I studied Electronic Engineering, then Computer Science from 1993 to 1999. I have been a forex trader since 2001. I was an international high school math teacher from 2008 to 2018. And a teacher in various public/private high schools and unversities from 2001 to 2007 in China, Japan, and Taiwan. I attended ggu.edu, which time coexists on the same block with frbsf.org. I believe this is why I remain so sternly interested in currency values.
 
 
 ### Passion
