@@ -21,7 +21,7 @@ url: "https://gomlfx.github.io"
 # List of links in the navigation bar
 navbar-links:
   Bio and home:
-    - About me: "/aboutme.md"
+    - About me: "aboutme.md"
     - Seattle: "http://www.seattletimes.com/"
     - BC: "http://www.vancouversun.com/"
     - China: "https://www.rosettastone.com/learn-chinese/"
