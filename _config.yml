@@ -11,7 +11,7 @@ description: Portfolio, Builds, Labs, CS, Job finding.
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://gomlfx.github.io"
+url: ""
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -21,7 +21,7 @@ url: "https://gomlfx.github.io"
 # List of links in the navigation bar
 navbar-links:
   Bio and home:
-    - About me: "https://github.com/gomlfx/gomlfx.github.io/blob/master/aboutme.md"
+    - About me: "https://gomlfx.github.io/aboutme.md"
     - Seattle: "http://www.seattletimes.com/"
     - BC: "http://www.vancouversun.com/"
     - China: "https://www.rosettastone.com/learn-chinese/"
