@@ -12,6 +12,8 @@ image: img/passion.jpg
 ### My Passion
   I loved teaching math, and I love coding for AI/deep learning. All the things I like to learn maths, programming, AI, and Forex all seem to harmoniously go together like a big jigsaw puzzle, so I'm always very pleased about this. Even joining the lambdaschool data scientist course is to enhance this. So, my data scientist Builds will be focused on this, too.  
   Forex is the analysis of Currency Exchange Rates. There are around 195 countries in the world and each one of them needs a currency. My particular focus is the Euro zone currency vs US dollar, i.e., the EURUSD. Developed countries currencies' are rich and complex structures, but I think developing country currencies are equally interesting, as they often experience hyperinflation, and steep orthogonal political adjustments, rather than free market adjustments. 
+  
+  # Please excuse the Star Wars theme. I am simply testing out github's markdown ;)
 
 
 
