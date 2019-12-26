@@ -21,7 +21,7 @@ url: ""
 # List of links in the navigation bar
 navbar-links:
   Bio and home:
-    - About me: "https://gomlfx.github.io/aboutme.md"
+    - About me: "https://gomlfx.github.io/aboutme.md/"
     - Seattle: "http://www.seattletimes.com/"
     - BC: "http://www.vancouversun.com/"
     - China: "https://www.rosettastone.com/learn-chinese/"
