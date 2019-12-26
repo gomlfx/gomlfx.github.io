@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About me
 subtitle: Engineer, Forex Trader, Math Teacher, Data Scientist.
 ---
