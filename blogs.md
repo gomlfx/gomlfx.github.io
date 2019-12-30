@@ -1,6 +1,6 @@
 ---
 title: <p align="left"><span style="color:black"> Blogs I make on the Web.
-subtitle: <p align="left"><span style="color:black"> lambdaschool.com, Build 1, An analysis of the eurusd. Focus on the directional patterns obtained by viewing via cyclic lenses of time. 
+subtitle: <p align="left"><span style="color:black">An analysis of the EURUSD. Experimentation and obsservations for spatial and directional patterns via discrete and helical use of time. 
 bigimg: img/clock.jpg
 ---
 
