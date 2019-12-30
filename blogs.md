@@ -4,6 +4,6 @@ subtitle: <p align="left"><span style="color:black"> An analysis of the EURUSD. 
 bigimg: img/clock.jpg
 ---
 
-Can we use various particles of time to determine things about space? 
+Can we use various particles of time to determine things about space? This is a legitimate question can be investigated using eurusd datasets.
 
 <https://medium.com/@mlfxbroker/a-data-scientists-1st-out-4-analysis-of-the-eurusd-8ff83fa1dc3c>
