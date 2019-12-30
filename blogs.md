@@ -1,6 +1,6 @@
 ---
 title: blogs
-bigimg: img/clock helix.jpg
+bigimg: img/clock.jpg
 
 
 ---
