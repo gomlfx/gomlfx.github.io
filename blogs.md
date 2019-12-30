@@ -4,6 +4,6 @@ subtitle: <p align="left"><span style="color:black"> lambdaschool.com, Build 1, 
 bigimg: img/clock.jpg
 ---
 
-lambdaschool.com, Build 1, An analysis of the eurusd. Focus on the directional patterns of the eurusd as viewed through various time cycles.  
+Can we use various particles of time to determine things about space? 
 
 <https://medium.com/@mlfxbroker/a-data-scientists-1st-out-4-analysis-of-the-eurusd-8ff83fa1dc3c>
