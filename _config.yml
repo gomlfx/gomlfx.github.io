@@ -20,22 +20,24 @@ url: ""
 
 # List of links in the navigation bar
 navbar-links:
-  Bio and home:
+  Bio:
     - About me: "https://gomlfx.github.io/aboutme/"
-    - Seattle: "http://www.seattletimes.com/"
-    - BC: "http://www.vancouversun.com/"
-    - China: "https://www.rosettastone.com/learn-chinese/"
-    - Japan: "http://www.city.higashikurume.lg.jp/"
+    - Github: "http://www.github.com/gomlfx"
+    - Blogs:
   
   Resources:
     - Learn python: "http://www.python.org/"
     - Learn julia: "http://www.julialang.org/"
     - Learn go: "http://www.golang.org/"
     - Learn scala: "http://www.scala-lang.org/"
-  Cyber home: 
-    - Github: "http://www.github.com/gomlfx"
     - Amazon: "https://aws.amazon.com/"
-    - Windows: "http://azure.microsoft.com/"
+    - Windows: "http://azure.microsoft.com/"    
+    
+  We ain't in Kansas:
+    - Seattle: "http://www.seattletimes.com/"
+    - BC: "http://www.vancouversun.com/"
+    - China: "https://www.rosettastone.com/learn-chinese/"
+    - Japan: "http://www.city.higashikurume.lg.jp/"
     
     
 
@@ -65,8 +67,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 # navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+footer-img: "/img/24877910-preview.png"
 
 # --- Footer options --- #
 
