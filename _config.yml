@@ -23,15 +23,15 @@ navbar-links:
   Bio:
     - About me: "https://gomlfx.github.io/aboutme/"
     - Github: "http://www.github.com/gomlfx"
-    - Blogs:
+    - Blogs: "https://gomlfx.github.io/blogs/"
   
   Resources:
     - Learn python: "http://www.python.org/"
     - Learn julia: "http://www.julialang.org/"
     - Learn go: "http://www.golang.org/"
     - Learn scala: "http://www.scala-lang.org/"
-    - Amazon: "https://aws.amazon.com/"
-    - Windows: "http://azure.microsoft.com/"    
+    - Sagemaker: "https://aws.amazon.com/"
+    - Azure: "http://azure.microsoft.com/"    
     
   We ain't in Kansas:
     - Seattle: "http://www.seattletimes.com/"
