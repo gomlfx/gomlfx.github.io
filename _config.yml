@@ -33,11 +33,10 @@ navbar-links:
     - Sagemaker: "https://aws.amazon.com/"
     - Azure: "http://azure.microsoft.com/"    
     
-  Home:
-    - Seattle: "http://www.seattletimes.com/"
-    - BC: "http://www.vancouversun.com/"
-    - China: "https://www.rosettastone.com/learn-chinese/"
+  Friends:
+    - BC: "http://www.vancouversun.com/"    
     - Japan: "http://www.city.higashikurume.lg.jp/"
+    - China: "https://www.rosettastone.com/learn-chinese/"
     
     
 
