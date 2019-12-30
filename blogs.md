@@ -5,8 +5,6 @@ subtitle: <p align="left"><span style="color:black"> An analysis of the EURUSD. 
 bigimg: img/clock.jpg
 gh-repo: gomlfx/gomlfx.github.io
 gh-badge: [star, fork, follow]
-
-tags: [blogs, lambdaschool, data science, machine learning, deep learning, artifical intelligence, engineering, python, coding, programming]
 ---
 
 Can we use various particles of time to determine things about space? This legitimate question can be investigated using eurusd datasets.
