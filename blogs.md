@@ -1,6 +1,6 @@
 ---
-title: <p align="left"><span style="color:black">Blogs I make on the Web.</span></p>
-subtitle: <span style="color:black">lambdaschool.com, Build 1, An general analysis of the eurusd. Focus on the directional patterns of the eurusd as viewed through various time cycles.</span>
+title: <p align="left"><span style="color:black">Blogs I make on the Web.
+subtitle: lambdaschool.com, Build 1, An general analysis of the eurusd. Focus on the directional patterns of the eurusd as viewed through various time cycles.</span></p>
 bigimg: img/clock.jpg
 
 
