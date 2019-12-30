@@ -6,7 +6,7 @@ bigimg: img/clock.jpg
 gh-repo: gomlfx/gomlfx.github.io
 gh-badge: [star, fork, follow]
 
-tags: [lambdaschool, dspt4, data science, statistics fundamentals, data wrangling, linear algebra, build 1]
+tags: [blogs, lambdaschool, data science, machine learning, deep learning, artifical intelligence, engineering, python, coding, programming]
 ---
 
 Can we use various particles of time to determine things about space? This legitimate question can be investigated using eurusd datasets.
