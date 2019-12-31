@@ -7,6 +7,6 @@ gh-repo: gomlfx/gomlfx.github.io
 gh-badge: [star, fork, follow]
 ---
 
-Can we use particles of time to determine things about space? That actually is a physics question way over my head to articulate, but I can try to answer it using eurusd datasets and data science.<br>
+Can we use time particulates of various sizes to determine things about space? That actually is a physics question way over my head to articulate, but I can try to answer it using eurusd datasets and data science.<br>
 
 <https://medium.com/@mlfxbroker/a-data-scientists-1st-out-4-analysis-of-the-eurusd-8ff83fa1dc3c>
